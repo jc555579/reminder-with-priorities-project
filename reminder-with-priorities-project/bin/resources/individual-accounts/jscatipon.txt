@@ -1,0 +1,2 @@
+2025-05-26, HIGH, Finish Reviewing threads and exercise, MARKED = false
+2025-05-29, HIGH, Start Learning GIT, MARKED = false
