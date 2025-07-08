@@ -12,11 +12,6 @@ import project_exceptions.DueDateException;
 import project_exceptions.MessageException;
 import project_exceptions.PriorityException;
 
-/*
- * 2 HOURS STUDY 50 + 10
- * 1st Pom - Double Checking the project and review threads including exercises or simple program
- * 2nd Pom - Start learning remaining topics in the course
- */
 public class MainReminderApp {
 
 	public static void main(String[] args) {
